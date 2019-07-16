@@ -89,6 +89,8 @@ Pri odkrytých kartách je k dispozícii **Pomocný režim**, ktorý umožní **
 - 1  -  **automatický režim**
 - 2  -  **manuálny režim**
 
+Z ponuky je možné spustiť aj **náhodnú hru** :)
+
 **[Ďalšie informácie][1]**
 
 **[TOP hry][4]**

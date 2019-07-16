@@ -88,6 +88,8 @@ With exposed cards, Auxiliary mode is available to highlight linked cards (pair,
 - 1  -  **automatic mode**
 - 2  -  **manual mode**
 
+You can also start **a random game** from the menu :)
+
 **[Info][1]**
 
 **[TOP games][4]**
