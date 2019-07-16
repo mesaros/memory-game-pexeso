@@ -46,47 +46,47 @@ From the menu, you can select picture, text, sound or combination (picture - tex
 
 Individual Memory Game are classified into different categories:
 
-- age category   (children, adults, seniors)
-- processing   (picture, text, sound, combined)
-- card identity   (same pairs of cards, different pairs of cards)
-- card definition   (pair, three of a kind, four of a kind, five of a kind)
-- difficulty   (easy, normal, hard, extreme)
-- for disabled people   (purblind, blind, age dementia, Alzheimer's disease, Parkinson's disease, ...)
-- learning foreign languages
-- special :)
+- **age category**   (children, adults, seniors)
+- **processing**   (picture, text, sound, combined)
+- **card identity**   (same pairs of cards, different pairs of cards)
+- **card definition**   (pair, three of a kind, four of a kind, five of a kind)
+- **difficulty**   (easy, normal, hard, extreme)
+- **for disabled people**   (purblind, blind, age dementia, Alzheimer's disease, Parkinson's disease, ...)
+- **learning foreign languages**
+- **special** :)
 
 
 ### Installation
 
-The application is not installed, this version of Memory Game is - online.
+The application is **not installed**, this version of Memory Game is - online.
 
-You can play from your internet browser.
-Almost all available browsers are supported: Chrome, Firefox, Opera, Safari and with some restrictions Internet Explorer (Edge)...
+You can **play from your internet browser**.
+Almost all available browsers are supported: **Chrome**, **Firefox**, **Opera**, **Safari** and with some restrictions **Internet Explorer (Edge)**...
 
 
 ### Procedure
 
-In the game, you can increase or decrease the number of cards (depending on the screen resolution).
+In the game, you can **increase or decrease the number of cards** (depending on the screen resolution).
 
-Game allows several times to uncover and cover all accessible cards.
+Game allows several times to **uncover and cover all accessible cards**.
 
-Turnover speed of cards can be adjusted as necessary:
+**Turnover speed of cards** can be adjusted as necessary:
 
-- manually reversing cards
-  - with the ESC key
-  - click to the card area
-- automatic card reversal with pause
-  - 0.5 sec
-  - 1 sec
-  - 2 sec
-  - 4 sec
-  - 8 sec
+- **manually reversing cards**
+  - with the **ESC** key
+  - **click** to the card area
+- **automatic card reversal with pause**
+  - **0.5** sec
+  - **1** sec
+  - **2** sec
+  - **4** sec
+  - **8** sec
 
 With exposed cards, Auxiliary mode is available to highlight linked cards (pair, three of a kind, ...):
 
-- 0  -  off mode
-- 1  -  automatic mode
-- 2  -  manual mode
+- 0  -  **off mode**
+- 1  -  **automatic mode**
+- 2  -  **manual mode**
 
 **[Info][1]**
 
