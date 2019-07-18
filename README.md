@@ -96,7 +96,7 @@ You can also start **a random game** from the menu :)
 
 ### Links
 
-- more about this [Pexeso (kartová hra)][1]
+- more about this [Memory Game (card game)][1]
 - website [rmSOFT][2]
 - [donate][3] *(Thanks)*
 

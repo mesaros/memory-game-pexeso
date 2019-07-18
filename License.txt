@@ -1,9 +1,10 @@
 ﻿/**
  * @package    Memory Game (card game) - online
  * @version    1.2
+ * @info       card game
  * @date       Mon, 14 Jan 2019 10:32:12 +0100, Slovakia
  * @author     Robert Mesaros
- * @copyright  Copyright © 2019 rmSOFT
+ * @copyright  Copyright © 2019 Robert Mesaros, rmSOFT
  * @web        http://www.rmsoft.sk
  * @link       http://www.rmsoft.sk/en/portfolio/programming-work/applications/memory-game-card-game-online
  *
