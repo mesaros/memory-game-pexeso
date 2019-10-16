@@ -127,6 +127,6 @@ pomocou [výpisu indexov hier][6]
 [2]: http://www.rmsoft.sk/sk
 [3]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BB4D8Y28YZDH6 "Vďaka za podporu"
 [4]: http://www.rmsoft.sk/sk/portfolio/programatorske-prace/aplikacie/pexeso-kartova-hra-online#pxs_top
-[5]: http://www.rmsoft.sk/virtual-gallery/start/index.php?key-vg=krmp&img-last=30&f-way=/mesaros/memory-game-pexeso/master/vg/&f-mask=memory-game-pexeso-f&f-mask-ext=jpg&f-frame=2&i-mask=memory-game-pexeso-i&t-file=memory-game-pexeso.js&logo-subtitle-sk=/m08/Pexeso%20-%20kartová%20hra/m05/<i>(online)</i>&photoindex=1&design=02&logo=1&startscreen=1011101&langua=sk
+[5]: http://www.rmsoft.sk/virtual-gallery/start/index.php?key-vg=krmp&img-last=30&f-way=/mesaros/memory-game-pexeso/master/vg/&f-mask=memory-game-pexeso-f&f-mask-ext=jpg&f-frame=2&i-mask=memory-game-pexeso-i&t-file=memory-game-pexeso.js&logo-subtitle-sk=/m08/Pexeso%20-%20kartová%20hra/m05/<i>(online)</i>&photoindex=1&design=52&logo=1&startscreen=1011101&langua=sk
 [6]: http://pexeso.rmsoft.sk/pexeso-index
 [7]: http://www_rmsoft_sk/sk/portfolio/programatorske-prace/aplikacie/pexeso-kartova-hra-online#pxs_offline

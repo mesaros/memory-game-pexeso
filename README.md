@@ -125,6 +125,6 @@ using the [game index listing][6]
 [2]: http://www.rmsoft.sk/en
 [3]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BB4D8Y28YZDH6 "Thanks for support"
 [4]: http://www.rmsoft.sk/en/portfolio/programming-work/applications/memory-game-card-game-online#pxs_top
-[5]: http://www.rmsoft.sk/virtual-gallery/start/index.php?key-vg=krmp&img-last=30&f-way=/mesaros/memory-game-pexeso/master/vg/&f-mask=memory-game-pexeso-f&f-mask-ext=jpg&f-frame=2&i-mask=memory-game-pexeso-i&t-file=memory-game-pexeso.js&logo-subtitle-en=/m08/Memory%20Game%20-%20card%20game/m05/<i>(online)</i>&photoindex=1&design=02&logo=1&startscreen=1011101&langua=en
+[5]: http://www.rmsoft.sk/virtual-gallery/start/index.php?key-vg=krmp&img-last=30&f-way=/mesaros/memory-game-pexeso/master/vg/&f-mask=memory-game-pexeso-f&f-mask-ext=jpg&f-frame=2&i-mask=memory-game-pexeso-i&t-file=memory-game-pexeso.js&logo-subtitle-en=/m08/Memory%20Game%20-%20card%20game/m05/<i>(online)</i>&photoindex=1&design=52&logo=1&startscreen=1011101&langua=en
 [6]: http://memorygame.rmsoft.sk/memorygame-index
 [7]: http://www.rmsoft.sk/en/portfolio/programming-work/applications/memory-game-card-game-online#pxs_offline
