@@ -16,27 +16,27 @@ In addition to the classic game (with searching **for same pairs of cards**) the
 **[Screenshots in Virtual Gallery][5]**
 
 <img src="https://raw.githubusercontent.com/mesaros/memory-game-pexeso/master/screenshots/memory-game-pexeso-01.jpg" width="720px" />
-<br><br>
+
 <img src="https://raw.githubusercontent.com/mesaros/memory-game-pexeso/master/screenshots/memory-game-pexeso-02.jpg" width="720px" />
-<br><br>
+
 <img src="https://raw.githubusercontent.com/mesaros/memory-game-pexeso/master/screenshots/memory-game-pexeso-03.jpg" width="720px" />
-<br><br>
+
 <img src="https://raw.githubusercontent.com/mesaros/memory-game-pexeso/master/screenshots/memory-game-pexeso-04.jpg" width="720px" />
-<br><br>
+
 <img src="https://raw.githubusercontent.com/mesaros/memory-game-pexeso/master/screenshots/memory-game-pexeso-05.jpg" width="720px" />
-<br><br>
+
 <img src="https://raw.githubusercontent.com/mesaros/memory-game-pexeso/master/screenshots/memory-game-pexeso-06.jpg" width="720px" />
-<br><br>
+
 <img src="https://raw.githubusercontent.com/mesaros/memory-game-pexeso/master/screenshots/memory-game-pexeso-07.jpg" width="720px" />
-<br><br>
+
 <img src="https://raw.githubusercontent.com/mesaros/memory-game-pexeso/master/screenshots/memory-game-pexeso-08.jpg" width="720px" />
-<br><br>
+
 <img src="https://raw.githubusercontent.com/mesaros/memory-game-pexeso/master/screenshots/memory-game-pexeso-09.jpg" width="720px" />
-<br><br>
+
 <img src="https://raw.githubusercontent.com/mesaros/memory-game-pexeso/master/screenshots/memory-game-pexeso-10.jpg" width="720px" />
-<br><br>
+
 <img src="https://raw.githubusercontent.com/mesaros/memory-game-pexeso/master/screenshots/memory-game-pexeso-11.jpg" width="720px" />
-<br><br>
+
 <img src="https://raw.githubusercontent.com/mesaros/memory-game-pexeso/master/screenshots/memory-game-pexeso-12.jpg" width="720px" />
 
 
