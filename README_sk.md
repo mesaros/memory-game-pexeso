@@ -10,7 +10,7 @@ Pexeso (kartová hra)
     permanentné precvičovanie!**
 
 Okrem klasickej hry (s hľadaním **rovnakých dvojíc kariet**) sú tu k dispozícii hry **rôznej obtiažnosti**, kde je potrebné nájsť napr. rovnaké (alebo rozdielne) **trojice**, 
-**štvorice** či **pätice kariet**...
+**štvorice**, **pätice**, **šestice**, **sedmice** či **osmice kariet**...
 
 ### Obrázky
 
@@ -72,11 +72,11 @@ Jednotlivé pexesá sú zatriedené do **rôznych kategórií**:
 - **identita kariet**   *(rovnaké páry kariet, rozdielne páry kariet)*
 - **definícia kariet**   *(dvojice, trojice, štvorice, pätice)*
 - **obtiažnosť**   *(malá, stredná, veľká, extrémna)*
-- **pre hendikepovaných**   *(slabozrakí, nevidomí, starecká demencia, Alzheimerova choroba, Pickova choroba, ...)*
+- **pre hendikepovaných**   *(slabozrakí, nevidomí/nevidiaci, starecká demencia, Alzheimerova choroba, Pickova choroba, ...)*
 - **výučba cudzieho jazyka**
 - **špeciálne** :)
 
-* hra pre **viacerých hráčov** (1 - 5) *(desktop PC)*
+* hra pre **viacerých hráčov** (1 - 5)
 * **maximálny mód** *(desktop PC)*
 
 V hre je možné **zvýšiť alebo znížiť počet kariet** (v závislosti od rozlíšenia obrazovky).
@@ -92,8 +92,8 @@ Hra umožňuje niekoľkokrát **odkryť a zakryť všetky prístupné karty**.
   - **0.5** sekundy
   - **1** sekunda
   - **2** sekundy
-  - **4** sekundy
-  - **8** sekúnd
+  - **3** sekundy
+  - **5** sekúnd
 
 Pri odkrytých kartách je k dispozícii **Pomocný režim**, ktorý umožní **zvýrazniť** prepojené karty *(dvojice, trojice, ...)*:
 
@@ -107,7 +107,7 @@ Pri odkrytých kartách je k dispozícii **Pomocný režim**, ktorý umožní **
 Pexeso je typu - online.
 
 Je **priamo spustiteľná** z vášho internetového prehliadača.
-Podporované sú novšie verzie takmer všetkych dostupných prehliadačov: **Chrome**, **Firefox**, **Opera**, **Safari** a **Internet Explorer (Edge)**...
+Podporované sú novšie verzie takmer všetkych dostupných prehliadačov: **Chrome**, **Firefox**, **Edge**, **Safari**, **Opera**...
 
 Z ponuky je možné spustiť aj **náhodnú hru** :)
 
@@ -130,7 +130,7 @@ Z ponuky je možné spustiť aj **náhodnú hru** :)
 
 **Alternatíva č.2:**<br>
 Jednotlivé hry pexesa je možné spustiť aj prostredníctvom indexu hry, napr. https://pexeso.rmsoft.sk/137<br>
-(číslo indexu je v rozmedzí 1 - 1511, okrem hodnôt 894 - 907, 1451 - 1507)<br>
+(číslo indexu je v rozmedzí 1 - 1877, okrem hodnôt 894 - 907)<br>
 alebo<br>
 pomocou [výpisu indexov hier][6]
 
@@ -148,5 +148,5 @@ pomocou [výpisu indexov hier][6]
 [2]: https://www.rmsoft.sk/sk
 [3]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BB4D8Y28YZDH6 "Vďaka za podporu"
 [4]: https://www.rmsoft.sk/sk/portfolio/programatorske-prace/aplikacie/pexeso-kartova-hra-online#pxs_top
-[5]: https://www.rmsoft.sk/virtual-gallery/start/index.php?key-vg=krmp&img-last=30&f-way=/mesaros/memory-game-pexeso/master/vg/&f-mask=memory-game-pexeso-f&f-mask-ext=jpg&f-frame=2&i-mask=memory-game-pexeso-i&t-file=memory-game-pexeso.js&logo-subtitle-sk=/m08/Pexeso%20-%20kartová%20hra/m05/<i>(online)</i>&photoindex=1&design=52&logo=1&startscreen=1011101&langua=sk
+[5]: https://www.rmsoft.sk/virtual-gallery/start/index.php?key-vg=krmp&img-last=74&f-way=/mesaros/memory-game-pexeso/master/vg/&f-mask=memory-game-pexeso-f&f-mask-ext=jpg&f-frame=2&i-mask=memory-game-pexeso-i&t-file=memory-game-pexeso.js&logo-subtitle-sk=/m08/Pexeso%20-%20kartová%20hra/m05/<i>(online)</i>&photoindex=1&design=52&logo=1&startscreen=1011101&langua=sk
 [6]: https://pexeso.rmsoft.sk/pexeso-index
