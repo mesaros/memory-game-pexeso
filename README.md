@@ -128,7 +128,7 @@ You can also start **a random game** from the menu :)
 
 **Alternative No.2:**<br>
 Individual memory games can also be launched through the game index, e.g. https://memorygame.rmsoft.sk/137<br>
-(index number is in the range 1 - 1877, except for 894 - 907)<br>
+(index number is in the range 1 - 2374, except for 894 - 907)<br>
 or<br>
 using the [game index listing][6]
 
@@ -139,6 +139,7 @@ using the [game index listing][6]
 
 - more about this card game - [Memory Game][1]
 - website [rmSOFT][2]
+- [history of this Memory Game][7]
 - [donate][3] *(Thanks)*
 
 
@@ -146,5 +147,6 @@ using the [game index listing][6]
 [2]: https://www.rmsoft.sk/en
 [3]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BB4D8Y28YZDH6 "Thanks for support"
 [4]: https://www.rmsoft.sk/en/portfolio/programming-work/applications/memory-game-card-game-online#pxs_top
-[5]: https://www.rmsoft.sk/virtual-gallery/start/index.php?key-vg=krmp&img-last=74&f-way=/mesaros/memory-game-pexeso/master/vg/&f-mask=memory-game-pexeso-f&f-mask-ext=jpg&f-frame=2&i-mask=memory-game-pexeso-i&t-file=memory-game-pexeso.js&logo-subtitle-en=/m08/Memory%20Game%20-%20card%20game/m05/<i>(online)</i>&photoindex=1&design=52&logo=1&startscreen=1011101&langua=en
+[5]: https://www.rmsoft.sk/virtual-gallery/start/index.php?key-vg=krmp&img-last=36&f-way=/mesaros/memory-game-pexeso/master/vg/&f-mask=memory-game-pexeso-f&f-mask-ext=jpg&f-frame=2&i-mask=memory-game-pexeso-i&t-file=memory-game-pexeso.js&logo-subtitle-en=/m08/Memory%20Game%20-%20card%20game/m05/<i>(online)</i>&photoindex=1&design=52&logo=1&startscreen=1011101&langua=en
 [6]: https://memorygame.rmsoft.sk/memorygame-index
+[7]: https://memorygame-history.rmsoft.sk

@@ -130,7 +130,7 @@ Z ponuky je možné spustiť aj **náhodnú hru** :)
 
 **Alternatíva č.2:**<br>
 Jednotlivé hry pexesa je možné spustiť aj prostredníctvom indexu hry, napr. https://pexeso.rmsoft.sk/137<br>
-(číslo indexu je v rozmedzí 1 - 1877, okrem hodnôt 894 - 907)<br>
+(číslo indexu je v rozmedzí 1 - 2374, okrem hodnôt 894 - 907)<br>
 alebo<br>
 pomocou [výpisu indexov hier][6]
 
@@ -141,6 +141,7 @@ pomocou [výpisu indexov hier][6]
 
 - viac o kartovej hre - [Pexeso][1]
 - webstránka [rmSOFT][2]
+- [história tohto digitálneho pexesa][7]
 - [donate][3] *(Vďaka)*
 
 
@@ -148,5 +149,6 @@ pomocou [výpisu indexov hier][6]
 [2]: https://www.rmsoft.sk/sk
 [3]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BB4D8Y28YZDH6 "Vďaka za podporu"
 [4]: https://www.rmsoft.sk/sk/portfolio/programatorske-prace/aplikacie/pexeso-kartova-hra-online#pxs_top
-[5]: https://www.rmsoft.sk/virtual-gallery/start/index.php?key-vg=krmp&img-last=74&f-way=/mesaros/memory-game-pexeso/master/vg/&f-mask=memory-game-pexeso-f&f-mask-ext=jpg&f-frame=2&i-mask=memory-game-pexeso-i&t-file=memory-game-pexeso.js&logo-subtitle-sk=/m08/Pexeso%20-%20kartová%20hra/m05/<i>(online)</i>&photoindex=1&design=52&logo=1&startscreen=1011101&langua=sk
+[5]: https://www.rmsoft.sk/virtual-gallery/start/index.php?key-vg=krmp&img-last=36&f-way=/mesaros/memory-game-pexeso/master/vg/&f-mask=memory-game-pexeso-f&f-mask-ext=jpg&f-frame=2&i-mask=memory-game-pexeso-i&t-file=memory-game-pexeso.js&logo-subtitle-sk=/m08/Pexeso%20-%20kartová%20hra/m05/<i>(online)</i>&photoindex=1&design=52&logo=1&startscreen=1011101&langua=sk
 [6]: https://pexeso.rmsoft.sk/pexeso-index
+[7]: https://memorygame-history.rmsoft.sk/sk
